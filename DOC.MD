@@ -63,4 +63,4 @@ detem todo acesso ao banco de dados através de seus métodos
 # requerimentos para rodar
 
 - python > 3.7
-	- pyside2
+	- PySide6

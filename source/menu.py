@@ -1,4 +1,4 @@
-from PySide2 import QtWidgets, QtGui, QtCore
+from PySide6 import QtWidgets, QtGui, QtCore
 from crud import insertData, queryCod, queryAll, queryAndDelete
 from reimplemented import DEFAULT
 

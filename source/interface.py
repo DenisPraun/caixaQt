@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from PySide2 import QtCore, QtGui, QtWidgets
+from PySide6 import QtCore, QtGui, QtWidgets
 from loadconfigs import getStyle
 from reimplemented import Buttons, HOVER, DEFAULT
 from menu import MyMenu

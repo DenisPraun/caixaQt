@@ -1,4 +1,4 @@
-from PySide2 import QtGui, QtCore
+from PySide6 import QtGui, QtCore
 from controller import MyApp, QtWidgets
 from crud import load_null_users, insert_user
 from menu import Message

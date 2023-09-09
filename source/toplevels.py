@@ -1,7 +1,7 @@
 from reimplemented import *
 from crud import *
-from PySide2 import QtWidgets
-from PySide2 import QtGui
+from PySide6 import QtWidgets
+from PySide6 import QtGui
 from menu import *
 
 

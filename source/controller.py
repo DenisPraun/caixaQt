@@ -2,10 +2,10 @@
 # clean code concept..
 
 from toplevels import Login
-from PySide2 import QtCore
-from PySide2.QtCore import Qt
+from PySide6 import QtCore
+from PySide6.QtCore import Qt
 from interface import Interface
-from PySide2 import QtWidgets
+from PySide6 import QtWidgets
 from toplevels import FinallyPurchasing, SearchItems, Login
 from loadconfigs import saveTotal
 from crud import queryCod, insert_user, load_admins, delete_admins
